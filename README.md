@@ -1,2 +1,2 @@
-# IUT_IPE
-Contenu des séance de TP du module IPE - IUT de RENNES
+# IUT_IPE_TP1
+Fichiers utiles pour le TP1 du module IPE - IUT de RENNES
